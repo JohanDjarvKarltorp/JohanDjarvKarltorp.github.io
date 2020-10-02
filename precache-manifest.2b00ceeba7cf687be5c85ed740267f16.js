@@ -1,31 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c307b7377f3fc718c5a1e254df077998",
+    "revision": "5a21a32a58e28f92cf6ef1acce1f8839",
     "url": "/index.html"
   },
   {
-    "revision": "e86b06b3064e2653fc66",
+    "revision": "42e79c4e6d7a8bc65388",
     "url": "/static/css/2.1a0a2c47.chunk.css"
   },
   {
-    "revision": "344e52d63a16385aa589",
-    "url": "/static/css/main.778a8381.chunk.css"
+    "revision": "4a91e66cc3d832e9a1aa",
+    "url": "/static/css/main.c29cd9d6.chunk.css"
   },
   {
-    "revision": "e86b06b3064e2653fc66",
-    "url": "/static/js/2.0082787f.chunk.js"
+    "revision": "42e79c4e6d7a8bc65388",
+    "url": "/static/js/2.b62e0f6f.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/static/js/2.0082787f.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.b62e0f6f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "344e52d63a16385aa589",
-    "url": "/static/js/main.d8ff8155.chunk.js"
+    "revision": "4a91e66cc3d832e9a1aa",
+    "url": "/static/js/main.5698bc6e.chunk.js"
   },
   {
     "revision": "4f2b1704eab49d50853b",
     "url": "/static/js/runtime-main.19ccc7f6.js"
+  },
+  {
+    "revision": "e176e9045e98252b2b5275bc94a5aebd",
+    "url": "/static/media/BTH-resultatintyg.e176e904.pdf"
+  },
+  {
+    "revision": "7a8738e5ef7b9827a628a1606a3bb498",
+    "url": "/static/media/Kandidatarbete.7a8738e5.pdf"
+  },
+  {
+    "revision": "d275e685a091922bfb14e7566089b972",
+    "url": "/static/media/Kattegatt-resultatintyg.d275e685.png"
   },
   {
     "revision": "52cdd6aec9e9776f0c35a054141b714b",
@@ -66,6 +78,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f34ba0cd86ec3a651d7579f10d882254",
     "url": "/static/media/cssIllustrations_6.f34ba0cd.png"
+  },
+  {
+    "revision": "859ca89d599311ec9d17d33782d3eb81",
+    "url": "/static/media/cv_english.859ca89d.pdf"
   },
   {
     "revision": "5a89c9f8af99d2a71efd0ed7071e7a6e",
